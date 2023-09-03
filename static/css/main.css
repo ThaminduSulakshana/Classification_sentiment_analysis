@@ -31,14 +31,14 @@ body {
 .left {
   left: 0;
   background-color: #fbff1c;
-  background: linear-gradient(rgba(60, 65, 51, 0), rgba(60, 65, 51, 0)), url("/static/img/2.png") fixed center center;  
+  background: linear-gradient(rgba(60, 65, 51, 0), rgba(60, 65, 51, 0)), url("/static/img/main\ back.png") fixed center center;  
   background-size: cover;
 }
 
 .right {
   right: 0;
   background-color: #20ff1800;
-  background: linear-gradient(rgba(60, 65, 51, 0), rgba(60, 65, 51, 0)), url("/static/img/2.png") fixed center center;  
+  background: linear-gradient(rgba(60, 65, 51, 0), rgba(60, 65, 51, 0)), url("/static/img/main\ back.png") fixed center center;  
   background-size: cover;
 }
 
