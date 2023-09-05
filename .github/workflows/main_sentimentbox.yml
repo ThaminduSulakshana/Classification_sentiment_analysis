@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Sentimentbox'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC6CCA43017C4D7DB11CE0F6F55FFB14 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11FADC1F30954DF2801690B8D8344559 }}
